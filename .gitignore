@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (too large for GitHub)
+*.npy
+*.npz
+*.pkl
+*.h5
+*.mat
+
+# Datasets (download separately)
+dataset1_uci/
+Bonn*/
+chbmit/
+*.edf
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Kaggle
+kaggle.json
+
+# Build
+*.aux
+*.log
+*.out
+*.pdf.aux
+*.synctex.gz
